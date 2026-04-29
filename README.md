@@ -11,7 +11,7 @@ Windows Server | Active Directory | Group Policy | Windows 10/11
 </p>
 
 <hr/>
-<p>ASSURE de rajouter les photoes de manier inteliget / gifts/ vidoes ici: </p>
+
 <h2>🎯 Contexte du projet</h2>
 <p>
 Conception et administration d’un environnement d’entreprise simulé afin de reproduire une infrastructure IT réelle basée sur Active Directory.
