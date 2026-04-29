@@ -11,7 +11,7 @@ Windows Server | Active Directory | Group Policy | Windows 10/11
 </p>
 
 <hr/>
-<p>ASSURE de rajouter les photoes de manier inteliget / gifts/ vidoes ici: <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Étapes de nettoyage du disque"/></p>
+<p>ASSURE de rajouter les photoes de manier inteliget / gifts/ vidoes ici: </p>
 <h2>🎯 Contexte du projet</h2>
 <p>
 Conception et administration d’un environnement d’entreprise simulé afin de reproduire une infrastructure IT réelle basée sur Active Directory.
@@ -120,13 +120,4 @@ Le lab simule une PME avec plusieurs départements (IT, HR, Finance) et applique
 <li>IT Infrastructure Design</li>
 <li>Security Hardening</li>
 <li>Windows Troubleshooting</li>
-</ul>
-
-<h2>📸 Documentation & Evidence</h2>
-<ul>
-<li>Active Directory configuration (DC, DNS, ADUC)</li>
-<li>Structure OU et groupes de sécurité</li>
-<li>GPO screenshots (Domain / OU / Filtering)</li>
-<li>User testing & validation</li>
-<li>gpresult outputs</li>
 </ul>
