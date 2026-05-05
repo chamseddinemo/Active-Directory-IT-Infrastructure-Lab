@@ -3,7 +3,7 @@ Active Directory &amp; IT Infrastructure Lab
 
 <h1>🏢 TECHCORP ENTERPRISE </h1>
 
-<h2>🖥️ Junior Systems Administrator – Active Directory & IT Infrastructure Lab</h2>
+<h2>🖥️Active Directory & IT Infrastructure Lab</h2>
 
 <p>
 TechCorp Enterprise Environment (Home Lab Simulation)<br/>
