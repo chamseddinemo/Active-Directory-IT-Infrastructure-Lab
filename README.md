@@ -1,16 +1,10 @@
 ﻿# 🏢 TECHCORP ENTREPRISE
 ## 🖥️ Laboratoire Active Directory et infrastructure informatique
 
-Simulation complète d’un environnement entreprise basé sur Active Directory, incluant :
-
 - Gestion des utilisateurs
 - Groupes de sécurité (RBAC)
 - Stratégies de groupe (GPO)
 - Sécurité et contrôle d’accès
-
-## 🎯 Objectif
-
-Reproduire une infrastructure IT réaliste niveau entreprise pour développer des compétences Help Desk / Support TI niveau 1-2.
 
 ## 🧪 Environnement
 
