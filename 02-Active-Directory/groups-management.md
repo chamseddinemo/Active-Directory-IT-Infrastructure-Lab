@@ -6,11 +6,15 @@
 - GRP_HR
 - GRP_FINANCE
 
-📸 Capture d’écran : groupes AD
+![Liste groupes](./Photos/Capture%20d’écran%20(137).png)
+
 
 ## Actions
 
 - Ajouter les utilisateurs dans les groupes
+![Ajout groupe](./Photos/ajout_au_group.jpeg)
+
+![Ajout groupe](./Photos/Capture%20d’écran%20(139).png)
 
 ## Objectif
 

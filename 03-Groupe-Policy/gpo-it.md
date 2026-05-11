@@ -3,9 +3,15 @@
 ## Paramètres
 
 - Blocage CMD
-- Restriction panneau config
+[Panneau config](./Images/activer_desactiver_lacces_a_linvite_commande.jpeg)
 
-📸 Capture d’écran : GPO IT
+- Restriction panneau config
+[Panneau config](./Images/activer_option_dinterdir_lacces_au_panneu_de_configuration.jpeg)
+
+📸 GPO IT
+📸 restrictions IT
+![Invite commande](./Images/activer_desactiver_lacces_a_linvite_commande.jpeg)
+![Panneau config](./Images/activer_option_dinterdir_lacces_au_panneu_de_configuration.jpeg)
 
 ## Résultat
 
