@@ -17,7 +17,6 @@
 
 4. Installer et redémarrer.
 
-📸 Capture d'écran : installation terminée
 ![Installation terminée](./Photos/installation_termine.jpeg)
 
 ## Résultat

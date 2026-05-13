@@ -1,16 +1,14 @@
 ﻿# GPO Security Baseline
 
 ## Paramètres
-
 - Password policy
 - Lockout policy
 - Audit logs
 
-📸 Capture d’écran : GPO settings
-
 ## Résultat
 
 - Sécurité globale appliquée
+
 ![Blocage USB](./Images/active_loption_le_mtp_doit_respecter_les_exigences_du_complexite.jpeg)
 
 ![Blocage USB](./Images/DEFINIR_longeur_minimal_du_mtp.jpeg)

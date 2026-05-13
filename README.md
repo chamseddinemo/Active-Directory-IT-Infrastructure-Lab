@@ -7,14 +7,12 @@
 - Sécurité et contrôle d’accès
 
 ## Environnement
-
 - Windows Server (DC01)
 - Active Directory Domain Services (AD DS)
 - DNS
 - Clients Windows 10/11
 
 ## Compétences démontrées
-
 - Administration Active Directory
 - Gestion des accès (IAM / RBAC)
 - Gestion des GPO
@@ -23,24 +21,26 @@
 
 ## Sommaire rapide
 
-- [01 - Configuration](#01---configuration)
-- [02 - Active Directory](#02---active-directory)
-- [03 - Groupe Policy](#03---groupe-policy)
-- [04 - Dépannage](#04---dépannage)
-- [05 - Billets Help Desk](#05---billets-help-desk)
-- [06 - Actifs](#06---actifs)
+- [01 - Configuration](./01-Configuration/install-ad-ds.md)
+- [02 - Active Directory](./02-Active-Directory/)
+- [03 - Groupe Policy](./03-Groupe-Policy/)
+- [04 - Dépannage](./03-Groupe-Policy/)
+- [05 - Billets Help Desk](./05-Billets/)
 
 ## 📁 01 - Configuration
-
 - [Installation AD DS](./01-Configuration/install-ad-ds.md)
+
 - [Promotion en Domain Controller](./01-Configuration/promote-dc.md)
+
 - [Configuration DNS](./01-Configuration/dns-setup.md)
 
 ## 02 - Active Directory
-
 - [Structure OU](./02-Active-Directory/ou-structure.md)
+
 - [Gestion des utilisateurs](./02-Active-Directory/users-management.md)
+
 - [Groupes de sécurité](./02-Active-Directory/groups-management.md)
+
 - [Modèle RBAC](./02-Active-Directory/access-model-rbac.md)
 
 ## 03 - Groupe Policy
