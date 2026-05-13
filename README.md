@@ -64,12 +64,6 @@
 - [Ticket #002 - GPO non appliquée](./05-Billets/ticket-02-gpo-issue.md)
 - [Ticket #003 - Reset password](./05-Billets/ticket-03-password-reset.md)
 
-## 06 - Actifs
-
-- [Guide des actifs](./06-Actifs/README.md)
-- `06-Actifs/images/` : captures d’écran
-- `06-Actifs/videos/` : démonstrations
-
 ## Structure du projet
 
 ```text
@@ -80,5 +74,4 @@ TECHCORP-ENTERPRISE-LAB/
 ├── 03-Groupe-Policy/
 ├── 04-Dépannage/
 ├── 05-Billets/
-└── 06-Actifs/
 ```
